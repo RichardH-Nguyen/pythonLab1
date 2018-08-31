@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b85a657-07fa-4445-b13f-752b39028e3d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Lab1-python/.idea/Lab1-python.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Lab1-python/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Lab1-python/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Lab1-python/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Lab1-python/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Lab1-python/camelCase.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Lab1-python/numberGuess.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Lab1-python/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lab1-python/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lab1-python/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,11 +32,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="camelCase.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="camelCase.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Lab1-python/camelCase.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Lab1-python/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -65,6 +70,7 @@
         <option value="$PROJECT_DIR$/numberGuess.py" />
         <option value="$PROJECT_DIR$/camelCase.py" />
         <option value="$PROJECT_DIR$/../Lab1-python/camelCase.py" />
+        <option value="$PROJECT_DIR$/../Lab1-python/.gitignore" />
       </list>
     </option>
   </component>
@@ -388,6 +394,14 @@
       <option name="presentableId" value="Default" />
       <updated>1535670400907</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished part one, number guessing game and two, camelCase string parser.">
+      <created>1535676319098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535676319098</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -419,6 +433,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished part one, number guessing game and two, camelCase string parser." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished part one, number guessing game and two, camelCase string parser." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -479,6 +497,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lab1-python/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
